@@ -1,0 +1,20 @@
+Title:
+Drone Telemetry Simulation – CSWE Internship Task
+
+Content:-
+ 
+I built a Python program that simulates real-time drone telemetry.
+
+The program displays altitude, speed, battery percentage, and GPS coordinates.
+
+Telemetry values update every 1 second for a duration of 30 seconds.
+
+Altitude gradually increases to simulate ascent.
+
+Speed fluctuates randomly within a realistic range.
+
+Battery percentage decreases over time to represent power consumption.
+
+GPS coordinates change slightly to simulate movement.
+
+Python was chosen due to its simplicity and fast execution.
